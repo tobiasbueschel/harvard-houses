@@ -1,0 +1,67 @@
+[
+{"Adams": {
+    "url": "http://adamshouse.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/adams-shield.png"
+    }
+},
+{"Eliot": {
+    "url": "http://eliot.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/eliot-shield.png"
+    }
+},
+{"Mather": {
+    "url": "http://mather.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/mather-shield.png"
+    }
+},
+{"Cabot": {
+    "url": "http://cabot.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/cabot-shield.png"
+    }
+},
+{"Kirkland": {
+    "url": "http://kirkland.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/kirkland-shield.png"
+    }
+},
+{"Pforzheimer": {
+    "url": "http://pfoho.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/pforzheimer-shield.png"
+    }
+},
+{"Currier": {
+    "url": "https://currierquad.wordpress.com/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/currier-shield.png"
+    }
+},
+{"Leverett": {
+    "url": "http://leverett.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/leverett-shield.png"
+    }
+},
+{"Quincy": {
+    "url": "http://quincy.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/quincy-shield.png"
+    }
+},
+{"Dudley": {
+    "url": "http://dudley.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/dudley-house.png"
+    }
+},
+{"Lowell": {
+    "url": "http://lowell.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/lowell-shield.png"
+    }
+},
+{"Winthrop": {
+    "url": "http://www.winthrophouse.net/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/winthrop-shield.png"
+    }
+},
+{"Dunster": {
+    "url": "http://dunster.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/dunster-shield.png"
+    }
+}
+]

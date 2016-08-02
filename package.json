@@ -1,0 +1,25 @@
+{
+  "name": "harvard-houses",
+  "version": "1.0.0",
+  "description": "Get Harvard house names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiasbueschel/harvard-houses.git"
+  },
+  "keywords": [
+    "harvard"
+  ],
+  "author": "Tobias Büschel <tobias.buschel.15@ucl.ac.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobiasbueschel/harvard-houses/issues"
+  },
+  "homepage": "https://github.com/tobiasbueschel/harvard-houses#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
