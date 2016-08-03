@@ -1,5 +1,7 @@
 .DS_Store
 coverage
+dist
+.nyc_output
 
 # Logs
 logs

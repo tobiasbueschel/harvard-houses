@@ -1,5 +1,5 @@
-var expect = require('chai').expect;
-var harvardHouses = require('./index.js');
+import {expect} from 'chai';
+import harvardHouses from './index';
 
 describe('harvard-houses', function() {
   describe('all', function() {

@@ -1,5 +1,6 @@
-var uniqueRandomArray = require('unique-random-array');
-var harvardHouses = require('./harvard-houses.json');
+import uniqueRandomArray from 'unique-random-array';
+import harvardHouses from './harvard-houses.json';
+
 var getRandomHouse = uniqueRandomArray(harvardHouses);
 
 const random = number => {
