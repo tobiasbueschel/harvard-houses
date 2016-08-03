@@ -13,9 +13,15 @@ $ npm install harvard-houses
 ```
 
 ## Usage
+#### Node.js
 ```javascript
 var houses = require('harvard-houses');
 var allHouses = houses.all;
 var randomHouse = houses.random();
 var threeRandomHouses = houses.random(3);
+```
+
+#### Browser
+```html
+<script src="https://npmcdn.com/havard-houses/index.umd.min.js"></script>
 ```
