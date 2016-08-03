@@ -23,5 +23,5 @@ var threeRandomHouses = houses.random(3);
 
 #### Browser
 ```html
-<script src="https://npmcdn.com/havard-houses/index.umd.min.js"></script>
+<script src="https://npmcdn.com/harvard-houses/dist/index.umd.min.js"></script>
 ```
