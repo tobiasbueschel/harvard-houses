@@ -3,7 +3,7 @@ var harvardHouses = require('./harvard-houses.json');
 var getRandomHouse = uniqueRandomArray(harvardHouses);
 
 const random = number => {
-	if (number === 'undefined') {
+	if (number === undefined) {
 		return getRandomHouse();
 	} else {
 		var getRandomHouses = [];

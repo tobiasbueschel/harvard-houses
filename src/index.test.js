@@ -14,7 +14,13 @@ describe('harvard-houses', function() {
     });
 
     it('should contain `Kirkland`', function() {
-      expect(harvardHouses.all).to.include('{"Kirkland"}');
+        var kirkland = {
+            "Kirkland": {
+                "url": "http://kirkland.harvard.edu/",
+                "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/kirkland-shield.png"
+            }
+        };
+      expect(harvardHouses.all).to.include(kirkland);
     });
   });
 
