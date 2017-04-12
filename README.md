@@ -9,7 +9,7 @@
 ## Installation
 This package is distributed via [npm](https://www.npmjs.com/package/harvard-houses):
 ```bash
-$ npm install harvard-houses
+$ npm install --save harvard-houses
 ```
 
 ## Usage
@@ -19,6 +19,16 @@ const houses = require('harvard-houses');
 const allHouses = houses.all;
 const randomHouse = houses.random();
 const threeRandomHouses = houses.random(3);
+```
+
+**Response:**
+```json
+{
+  "Kirkland": {
+    "url": "http://kirkland.harvard.edu/",
+    "icon": "http://static.hwpi.harvard.edu/files/styles/os_files_small/public/osl/files/kirkland-shield.png"
+  }
+}
 ```
 
 #### Browser
