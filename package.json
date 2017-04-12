@@ -24,13 +24,16 @@
     "url": "https://github.com/tobiasbueschel/harvard-houses.git"
   },
   "keywords": [
-    "harvard"
+    "harvard",
+    "dataset",
+    "open-data",
+    "open-datasets"
   ],
   "files": [
     "dist",
     "README.md"
   ],
-  "author": "Tobias Büschel <tobias.buschel.15@ucl.ac.uk>",
+  "author": "www.github.com/tobiasbueschel",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tobiasbueschel/harvard-houses/issues"
