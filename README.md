@@ -15,10 +15,10 @@ $ npm install harvard-houses
 ## Usage
 #### Node.js
 ```javascript
-var houses = require('harvard-houses');
-var allHouses = houses.all;
-var randomHouse = houses.random();
-var threeRandomHouses = houses.random(3);
+const houses = require('harvard-houses');
+const allHouses = houses.all;
+const randomHouse = houses.random();
+const threeRandomHouses = houses.random(3);
 ```
 
 #### Browser

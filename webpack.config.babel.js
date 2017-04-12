@@ -7,13 +7,13 @@ export default {
   output: {
     path: join(__dirname, 'dist'),
     libraryTarget: 'umd',
-    library: 'harvardHouses',
+    library: 'harvardHouses'
   },
   devtool: 'source-map',
   module: {
     loaders: [
       {test: /\.js$/, loader: 'babel', include},
-      {test: /\.json$/, 'loader': 'json', include},
+      {test: /\.json$/, 'loader': 'json', include}
     ]
   }
 }
