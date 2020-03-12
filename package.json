@@ -61,7 +61,7 @@
     "rimraf": "2.6.3",
     "semantic-release": "^15.13.3",
     "standard": "^13.0.1",
-    "webpack": "4.30.0"
+    "webpack": "4.31.0"
   },
   "czConfig": {
     "path": "node_modules/cz-conventional-changelog"
