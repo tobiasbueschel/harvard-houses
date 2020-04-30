@@ -1,4 +1,4 @@
-import {join} from 'path'
+import { join } from 'path'
 
 const include = join(__dirname, 'src')
 
@@ -12,8 +12,8 @@ export default {
   devtool: 'source-map',
   module: {
     loaders: [
-      {test: /\.js$/, loader: 'babel-loader', include},
-      {test: /\.json$/, 'loader': 'json-loader', include}
+      { test: /\.js$/, loader: 'babel-loader', include },
+      { test: /\.json$/, loader: 'json-loader', include }
     ]
   }
 }
