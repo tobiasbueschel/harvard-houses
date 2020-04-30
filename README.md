@@ -1,6 +1,4 @@
 # harvard-houses
-[![travis build](https://img.shields.io/travis/tobiasbueschel/harvard-houses.svg?style=flat-square)](https://travis-ci.org/tobiasbueschel/harvard-houses)
-[![codecov coverage](https://img.shields.io/codecov/c/github/tobiasbueschel/harvard-houses.svg?style=flat-square)](https://codecov.io/gh/tobiasbueschel/harvard-houses)
 [![version](https://img.shields.io/npm/v/harvard-houses.svg?style=flat-square)](http://npm.im/harvard-houses)
 [![downloads](https://img.shields.io/npm/dm/harvard-houses.svg?style=flat-square)](http://npm-stat.com/charts.html?package=harvard-houses)
 [![MIT License](https://img.shields.io/npm/l/harvard-houses.svg?style=flat-square)](http://opensource.org/licenses/MIT)
